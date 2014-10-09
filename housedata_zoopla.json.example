@@ -1,0 +1,13 @@
+{
+    "root_url": "http://www.zoopla.co.uk/property/",
+    "houses": [
+        {
+            "location": "My House",
+            "url": "zoopla_url"
+        },
+        {
+            "location": "My House in the Country",
+            "url": "zoopla_url"
+        }
+    ]
+}

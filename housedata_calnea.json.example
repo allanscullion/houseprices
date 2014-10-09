@@ -1,0 +1,16 @@
+{
+    "login_url": "https://pro.calnea.com/login",
+    "root_url": "https://pro.calnea.com/client/property-information/",
+    "user": "your@email.com",
+    "password": "calneapassword",
+    "houses": [
+        {
+            "location": "House 1",
+            "url": "ref-xxxxxxxx/1+any+street+xx1+1xx"
+        },
+        {
+            "location": "House 2",
+            "url": "ref-xxxxxxxx/2+any+street+xx1+1xx"
+        }
+    ]
+}
